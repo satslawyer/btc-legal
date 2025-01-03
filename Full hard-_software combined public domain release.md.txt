@@ -1,0 +1,20 @@
+﻿Instructions
+	1. Purpose: Completely waives any copyrights, patents, licensing and use requirements for your work
+	2. Disclaimer: This document is designed for reference only and provided “as is”.
+	3. Questions or Feedback: satslawyer@gmail.com
+	
+
+
+
+Complete Release for Hardware and Software
+
+
+
+
+[Your Product or Service] Public Domain Release
+
+
+[Your Product or Service], including all its software and hardware, along with associated source code, binaries, designs, schematics, drawings, and documentation, is released into the public domain. This means anyone may copy, modify, manufacture, publish, compile, use, sell, or distribute this software and hardware, in any form, for any purpose, commercial or non-commercial, without restriction. [Your Product or Service] relinquishes all intellectual property rights to the public domain for the benefit of everyone, waiving all current and future claims under any applicable law, worldwide. This release is an explicit and irrevocable act to ensure the software and hardware remain freely available and unrestricted for all uses.
+
+
+THE SOFTWARE AND HARDWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR HARDWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
